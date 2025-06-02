@@ -1,8 +1,8 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/KomeijiHelper/KomeijiHelper-Backend.git
+	url = https://github.com/3108762629/KomeijiHelper-Backend.git
 	branch = master
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/KomeijiHelper/KomeijiHelper-Frontend.git
+	url = https://github.com/3108762629/KomeijiHelper-Frontend.git
 	branch = master
